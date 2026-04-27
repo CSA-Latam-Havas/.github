@@ -28,15 +28,6 @@ En CSA ayudamos a empresas de Latinoamérica a tomar mejores decisiones de negoc
 | 📈 **Media Optimization** | Inversión eficiente con medición real del valor de cada conversión |
 | 🎯 **Audiencias Inteligentes** | Segmentación precisa con modelos predictivos para mejorar la conversión |
 
----
-
-## 📦 Productos
-
-- **Measurement & Attribution** — Medición avanzada del impacto real de tus campañas
-- **Brand Analytics** — Análisis de posicionamiento y percepción de marca
-- **Customer Analytics** — Conocimiento profundo del ciclo de vida del cliente
-- **Market Simulation** — Simulación de escenarios para decisiones estratégicas
-- **Creative Analytics** — Evaluación del rendimiento de piezas creativas con datos
 
 ---
 
